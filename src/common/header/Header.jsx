@@ -14,4 +14,4 @@ const Header = ({cartItem}) => {
   )
 }
 
-export default Header
+export default Header;
